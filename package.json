@@ -1,0 +1,27 @@
+{
+  "name": "programming-sandbox-meannlp",
+  "version": "1.0.0",
+  "description": "A small little playground sandbox for learning MEAN tech-stack, utilizing NLP techniques, principles, knowledge, etc.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancabbott/programming-sandbox-meannlp.git"
+  },
+  "keywords": [
+    "nlp",
+    "nlu",
+    "mean",
+    "angular",
+    "language",
+    "natural-language"
+  ],
+  "author": "Brian Abbott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briancabbott/programming-sandbox-meannlp/issues"
+  },
+  "homepage": "https://github.com/briancabbott/programming-sandbox-meannlp#readme"
+}
